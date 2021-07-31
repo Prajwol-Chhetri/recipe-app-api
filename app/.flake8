@@ -5,6 +5,9 @@ exclude =
     manage.py,
     settings.py,
     app/app/settings.py,
+    core/migrations,
+    ./core/migrations,
+    */core/migrations,
     settings.py,
     app/settings.py,
     ./app/settings.py
